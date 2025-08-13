@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+HU:wght@100..400&display=swap');
+
+body{
+
+background-image: url(./nature-319.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+display: flex;
+justify-content: center;align-items: center;
+height: 100vh;
+overflow: hidden;
+font-size: "gogle sans code" monospace;
+}
+
+
+div{
+background-color:rgba(255, 0, 140, 0.5);
+color: aqua;
+padding: 5px 5px;
+font-size: 10px;
+border-radius: 50px;
+border: 1px ;
+}
